@@ -83,17 +83,10 @@
             },
             "properties": {
                 "name": "High Rock Site",
-                "styleUrl": "#m_ylw-pushpin",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -108,19 +101,10 @@
             },
             "properties": {
                 "name": "Cross Lake Aileen Site",
-                "styleUrl": "#msn_ylw-pushpin3",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Proposed",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "red",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -135,17 +119,10 @@
             },
             "properties": {
                 "name": "Shiningwood Bay Site",
-                "styleUrl": "#m_ylw-pushpin0",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -160,19 +137,10 @@
             },
             "properties": {
                 "name": "Chimo/Island Bay Site",
-                "styleUrl": "#msn_ylw-pushpin3",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Proposed",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "red",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -187,19 +155,10 @@
             },
             "properties": {
                 "name": "SW Arm Papoose Site",
-                "styleUrl": "#msn_ylw-pushpin3",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Proposed",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "red",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -214,17 +173,10 @@
             },
             "properties": {
                 "name": "Cross Lake Central Site",
-                "styleUrl": "#m_ylw-pushpin",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -239,19 +191,10 @@
             },
             "properties": {
                 "name": "Bear Island Fire Tower",
-                "styleUrl": "#msn_ylw-pushpin2",
-                "icon-opacity": 1,
-                "icon-color": "#ffff00",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "Heltec T114 with 15dbm Booster",
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -282,19 +225,10 @@
             },
             "properties": {
                 "name": "Access Point Pow Wow Grounds",
-                "styleUrl": "#msn_ylw-pushpin1",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "red",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -309,19 +243,10 @@
             },
             "properties": {
                 "name": "Temagami Fire Tower Site",
-                "styleUrl": "#msn_ylw-pushpin1",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Proposed",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "red",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -336,19 +261,10 @@
             },
             "properties": {
                 "name": "Temagami North Site",
-                "styleUrl": "#msn_ylw-pushpin0",
-                "icon-opacity": 1,
-                "icon-color": "#ffaa00",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "Heltec V4 12V Node",
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -363,19 +279,10 @@
             },
             "properties": {
                 "name": "Red Squirrel Lake Site",
-                "styleUrl": "#msn_ylw-pushpin",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Proposed",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "red",
+                "marker-symbol": "communications-tower"
             }
         }
     ]
