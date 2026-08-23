@@ -1,3 +1,6 @@
 # Mesh Router Sites
 
-KML and GeoJSON Files of Mesh Router Sites. Both files should be the same. You can use the website geojson.io to convert from kml to geoJSON.
+This is the main GeoJSON file documenting the location and properties of our Mesh Router Sites. 
+
+This file can be viewed on the group website at https://temagami-mesh.github.io/map
+
