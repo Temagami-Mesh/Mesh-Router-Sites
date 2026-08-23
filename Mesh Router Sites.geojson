@@ -13,7 +13,9 @@
             },
             "properties": {
                 "name": "South Southwest Arm Bridge",
-                "styleUrl": "#runtime://clone192#s_ylw-pushpin"
+                "status": "Operational",
+                "hardware": "RAK4631 1W Solar Node",
+                "marker-color": "yellow"
             }
         },
         {
@@ -28,17 +30,9 @@
             },
             "properties": {
                 "name": "Maple Mountain",
-                "styleUrl": "#m_ylw-pushpin20",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "hardware": "Elecrow M6 Solar", 
+                "market-color": "yellow"
             }
         },
         {
@@ -53,19 +47,8 @@
             },
             "properties": {
                 "name": "Cross Bay Site",
-                "styleUrl": "#msn_ylw-pushpin1",
-                "icon-opacity": 1,
-                "icon-color": "#aa0000",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Proposed",
+                "market-color": "Yellow"
             }
         },
         {
