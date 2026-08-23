@@ -67,7 +67,7 @@
             "properties": {
                 "name": "VE3TLV Base",
                 "status": "Operational",
-                "marker-color": "Yellow",
+                "marker-color": "yellow",
                 "marker-symbol": "communications-tower"
             }
         },
