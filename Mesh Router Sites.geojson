@@ -15,7 +15,8 @@
                 "name": "South Southwest Arm Bridge",
                 "status": "Operational",
                 "hardware": "RAK4631 1W Solar Node",
-                "marker-color": "yellow"
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -32,7 +33,8 @@
                 "name": "Maple Mountain",
                 "status": "Operational",
                 "hardware": "Elecrow M6 Solar", 
-                "market-color": "yellow"
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -48,7 +50,8 @@
             "properties": {
                 "name": "Cross Bay Site",
                 "status": "Proposed",
-                "market-color": "Yellow"
+                "marker-color": "yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -63,19 +66,9 @@
             },
             "properties": {
                 "name": "VE3TLV Base",
-                "styleUrl": "#msn_ylw-pushpin0",
-                "icon-opacity": 1,
-                "icon-color": "#ffaa00",
-                "icon-scale": 1.1,
-                "icon-offset": [
-                    20,
-                    2
-                ],
-                "icon-offset-units": [
-                    "pixels",
-                    "pixels"
-                ],
-                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+                "status": "Operational",
+                "marker-color": "Yellow",
+                "marker-symbol": "communications-tower"
             }
         },
         {
