@@ -1,0 +1,417 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.093153,
+                    46.860396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Southwest Arm Bridge",
+                "styleUrl": "#runtime://clone192#s_ylw-pushpin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.334982,
+                    47.386921,
+                    2.00992
+                ]
+            },
+            "properties": {
+                "name": "Maple Mountain",
+                "styleUrl": "#m_ylw-pushpin20",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.001159,
+                    46.917925,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cross Bay Site",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.084966,
+                    46.855989,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "VE3TLV Base",
+                "styleUrl": "#msn_ylw-pushpin0",
+                "icon-opacity": 1,
+                "icon-color": "#ffaa00",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.032097,
+                    46.925763,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "High Rock Site",
+                "styleUrl": "#m_ylw-pushpin",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.003099,
+                    46.881848,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cross Lake Aileen Site",
+                "styleUrl": "#msn_ylw-pushpin3",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.952194,
+                    46.973525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shiningwood Bay Site",
+                "styleUrl": "#m_ylw-pushpin0",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.088841,
+                    46.911246,
+                    2.010052
+                ]
+            },
+            "properties": {
+                "name": "Chimo/Island Bay Site",
+                "styleUrl": "#msn_ylw-pushpin3",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.138625,
+                    46.825899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SW Arm Papoose Site",
+                "styleUrl": "#msn_ylw-pushpin3",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.976855,
+                    46.833089,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cross Lake Central Site",
+                "styleUrl": "#m_ylw-pushpin",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.070946,
+                    46.98015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bear Island Fire Tower",
+                "styleUrl": "#msn_ylw-pushpin2",
+                "icon-opacity": 1,
+                "icon-color": "#ffff00",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.148526,
+                    46.941899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gull Lake",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.987621,
+                    46.959075,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Access Point Pow Wow Grounds",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.778613,
+                    47.058106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Temagami Fire Tower Site",
+                "styleUrl": "#msn_ylw-pushpin1",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.789367,
+                    47.111501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Temagami North Site",
+                "styleUrl": "#msn_ylw-pushpin0",
+                "icon-opacity": 1,
+                "icon-color": "#ffaa00",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.042329,
+                    47.158304,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Squirrel Lake Site",
+                "styleUrl": "#msn_ylw-pushpin",
+                "icon-opacity": 1,
+                "icon-color": "#aa0000",
+                "icon-scale": 1.1,
+                "icon-offset": [
+                    20,
+                    2
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "pixels"
+                ],
+                "icon": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"
+            }
+        }
+    ]
+}
