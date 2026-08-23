@@ -15,8 +15,8 @@
                 "name": "South Southwest Arm Bridge",
                 "status": "Operational",
                 "hardware": "RAK4631 1W Solar Node",
+                "owner": "Bond Keevil",
                 "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
             }
         },
         {
@@ -34,7 +34,7 @@
                 "status": "Operational",
                 "hardware": "Elecrow M6 Solar", 
                 "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "owner": "Darcy Fortin"
             }
         },
         {
@@ -50,8 +50,9 @@
             "properties": {
                 "name": "Cross Bay Site",
                 "status": "Proposed",
-                "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "hardware": "RAK4631 1W Solar Node",
+                "marker-color": "red",
+                "owner": "TBD"
             }
         },
         {
@@ -67,8 +68,8 @@
             "properties": {
                 "name": "VE3TLV Base",
                 "status": "Operational",
-                "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "marker-color": "orange",
+                "owner": "Bond Keevil"
             }
         },
         {
@@ -86,7 +87,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "owner": "Shawn Saville"
             }
         },
         {
@@ -104,7 +105,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "marker-symbol": "communications-tower"
+                "owner": "Bond Keevil"
             }
         },
         {
@@ -122,7 +123,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "owner": "Shawn Saville"
             }
         },
         {
@@ -140,7 +141,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "marker-symbol": "communications-tower"
+                "owner": "Bond Keevil"
             }
         },
         {
@@ -158,7 +159,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "marker-symbol": "communications-tower"
+                "owner": "Bond Keevil"
             }
         },
         {
@@ -176,7 +177,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "owner": "Bond Keevil"
             }
         },
         {
@@ -194,7 +195,7 @@
                 "status": "Operational",
                 "hardware": "Heltec T114 with 15dbm Booster",
                 "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "owner": "TFN/TAA"
             }
         },
         {
@@ -225,10 +226,10 @@
             },
             "properties": {
                 "name": "Access Point Pow Wow Grounds",
-                "status": "Operational",
+                "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "marker-symbol": "communications-tower"
+                "owner": "TBD"
             }
         },
         {
@@ -246,7 +247,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "marker-symbol": "communications-tower"
+                "owner": "Municipality of Temagami"
             }
         },
         {
@@ -263,8 +264,8 @@
                 "name": "Temagami North Site",
                 "status": "Operational",
                 "hardware": "Heltec V4 12V Node",
-                "marker-color": "yellow",
-                "marker-symbol": "communications-tower"
+                "marker-color": "orange",
+                "owner": "Darcy Fortin"
             }
         },
         {
@@ -282,7 +283,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "marker-symbol": "communications-tower"
+                "owner": "communications-tower"
             }
         }
     ]
