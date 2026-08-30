@@ -87,7 +87,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "owner": "Shawn Saville"
+                "owner": "Bond Keevil"
             }
         },
         {
@@ -123,7 +123,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "owner": "Shawn Saville"
+                "owner": "Darcy Fortin"
             }
         },
         {
@@ -138,7 +138,7 @@
             },
             "properties": {
                 "name": "Chimo/Island Bay Site",
-                "status": "Proposed",
+                "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
                 "owner": "Bond Keevil"
