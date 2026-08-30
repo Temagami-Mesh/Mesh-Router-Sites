@@ -140,7 +140,7 @@
                 "name": "Chimo/Island Bay Site",
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
-                "marker-color": "red",
+                "marker-color": "yellow",
                 "owner": "Bond Keevil"
             }
         },
