@@ -15,7 +15,7 @@
                 "name": "South Southwest Arm Bridge",
                 "status": "Operational",
                 "hardware": "RAK4631 1W Solar Node",
-                "owner": "Bond Keevil",
+                "contact": "Bond Keevil",
                 "marker-color": "yellow"
             }
         },
@@ -34,7 +34,7 @@
                 "status": "Operational",
                 "hardware": "Elecrow M6 Solar", 
                 "marker-color": "yellow",
-                "owner": "Darcy Fortin"
+                "contact": "Darcy Fortin"
             }
         },
         {
@@ -52,7 +52,7 @@
                 "status": "Proposed",
                 "hardware": "RAK4631 1W Solar Node",
                 "marker-color": "red",
-                "owner": "TBD"
+                "contact": "TBD"
             }
         },
         {
@@ -69,7 +69,7 @@
                 "name": "VE3TLV Base",
                 "status": "Operational",
                 "marker-color": "orange",
-                "owner": "Bond Keevil"
+                "contact": "Bond Keevil"
             }
         },
         {
@@ -87,7 +87,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "owner": "Bond Keevil"
+                "contact": "Bond Keevil"
             }
         },
         {
@@ -105,7 +105,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "owner": "Bond Keevil"
+                "contact": "Bond Keevil"
             }
         },
         {
@@ -123,7 +123,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "owner": "Darcy Fortin"
+                "contact": "Darcy Fortin"
             }
         },
         {
@@ -141,7 +141,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "owner": "Bond Keevil"
+                "contact": "Bond Keevil"
             }
         },
         {
@@ -159,7 +159,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "owner": "Bond Keevil"
+                "contact": "Bond Keevil"
             }
         },
         {
@@ -177,7 +177,7 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "owner": "Bond Keevil"
+                "contact": "Bond Keevil"
             }
         },
         {
@@ -195,7 +195,7 @@
                 "status": "Operational",
                 "hardware": "Heltec T114 with 15dbm Booster",
                 "marker-color": "yellow",
-                "owner": "TFN/TAA"
+                "contact": "TFN/TAA"
             }
         },
         {
@@ -229,7 +229,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "owner": "TBD"
+                "contact": "TFN/TAA"
             }
         },
         {
@@ -247,7 +247,7 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "owner": "Municipality of Temagami"
+                "contact": "Municipality of Temagami"
             }
         },
         {
@@ -265,7 +265,7 @@
                 "status": "Operational",
                 "hardware": "Heltec V4 12V Node",
                 "marker-color": "orange",
-                "owner": "Darcy Fortin"
+                "contact": "Darcy Fortin"
             }
         },
         {
@@ -283,8 +283,27 @@
                 "status": "Proposed",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "red",
-                "owner": "Jason Fehr"
+                "contact": "Jason Fehr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.825456,
+                     47.058116,
+                    2
+                ]
+            },
+            "properties": {
+                "name": "Bell Island Site",
+                "status": "Active",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "contact": "Bond Keevil"
             }
         }
+
     ]
 }
