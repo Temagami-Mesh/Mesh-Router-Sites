@@ -167,7 +167,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.779814,
+                    -79.77,
                     47.058280,
                     2
                 ]
@@ -228,6 +228,24 @@
             },
             "properties": {
                 "name": "Bell Island Site",
+                "status": "Active",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "contact": "Bond Keevil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.83395,
+                     47.09131,
+                    2
+                ]
+            },
+            "properties": {
+                "name": "SN#2",
                 "status": "Active",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
