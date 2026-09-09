@@ -251,6 +251,24 @@
                 "marker-color": "yellow",
                 "contact": "Bond Keevil"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.82284,
+                     47.10727,
+                    2
+                ]
+            },
+            "properties": {
+                "name": "SN#1",
+                "status": "Active",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "contact": "Bond Keevil"
+            }
         }
 
     ]
