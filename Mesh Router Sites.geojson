@@ -42,24 +42,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.001159,
-                    46.917925,
-                    2
-                ]
-            },
-            "properties": {
-                "name": "Cross Bay Site",
-                "status": "Proposed",
-                "hardware": "RAK4631 1W Solar Node",
-                "marker-color": "red",
-                "contact": "TBD"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -80.084966,
                     46.855989,
                     2
@@ -87,24 +69,6 @@
                 "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
                 "marker-color": "yellow",
-                "contact": "Bond Keevil"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.003099,
-                    46.881848,
-                    2
-                ]
-            },
-            "properties": {
-                "name": "Cross Lake Aileen Site",
-                "status": "Proposed",
-                "hardware": "RAK 4631 1W Solar Node",
-                "marker-color": "red",
                 "contact": "Bond Keevil"
             }
         },
@@ -195,40 +159,6 @@
                 "status": "Operational",
                 "hardware": "Heltec T114 with 15dbm Booster",
                 "marker-color": "yellow",
-                "contact": "TFN/TAA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.148526,
-                    46.941899,
-                    2
-                ]
-            },
-            "properties": {
-                "name": "Gull Lake",
-                "status": "Proposed",
-                "marker-color": "red"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.987621,
-                    46.959075,
-                    2
-                ]
-            },
-            "properties": {
-                "name": "Access Point Pow Wow Grounds",
-                "status": "Proposed",
-                "hardware": "RAK 4631 1W Solar Node",
-                "marker-color": "red",
                 "contact": "TFN/TAA"
             }
         },
