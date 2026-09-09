@@ -244,10 +244,10 @@
             },
             "properties": {
                 "name": "Temagami Fire Tower Site",
-                "status": "Proposed",
+                "status": "Operational",
                 "hardware": "RAK 4631 1W Solar Node",
-                "marker-color": "red",
-                "contact": "Municipality of Temagami"
+                "marker-color": "yellow",
+                "contact": "Darcy Fortin"
             }
         },
         {
@@ -255,8 +255,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -79.789367,
-                    47.111501,
+                    -79.779814,
+                    47.058280,
                     2
                 ]
             },
