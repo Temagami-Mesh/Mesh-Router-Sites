@@ -95,6 +95,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -79.98013,
+                    46.94999,
+                    2
+                ]
+            },
+            "properties": {
+                "name": "SN#7",
+                "status": "Operational",
+                "hardware": "RAK 4631 1W Solar Node",
+                "marker-color": "yellow",
+                "contact": "Darcy Fortin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -80.088841,
                     46.911246,
                     2
