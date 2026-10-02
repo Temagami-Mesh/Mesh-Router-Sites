@@ -14,7 +14,7 @@
             "properties": {
                 "name": "South Southwest Arm Bridge",
                 "status": "Operational",
-                "hardware": "RAK4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "contact": "Bond Keevil",
                 "marker-color": "yellow"
             }
@@ -31,9 +31,9 @@
             },
             "properties": {
                 "name": "Maple Mountain",
-                "status": "Operational",
+                "status": "Non-operational",
                 "hardware": "Elecrow M6 Solar", 
-                "marker-color": "yellow",
+                "marker-color": "grey",
                 "contact": "Darcy Fortin"
             }
         },
@@ -67,7 +67,7 @@
             "properties": {
                 "name": "High Rock Site",
                 "status": "Operational",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Bond Keevil"
             }
@@ -85,7 +85,7 @@
             "properties": {
                 "name": "Shiningwood Bay Site",
                 "status": "Operational",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Darcy Fortin"
             }
@@ -103,7 +103,7 @@
             "properties": {
                 "name": "SN#7",
                 "status": "Operational",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Darcy Fortin"
             }
@@ -121,7 +121,7 @@
             "properties": {
                 "name": "Chimo/Island Bay Site",
                 "status": "Operational",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Bond Keevil"
             }
@@ -139,7 +139,7 @@
             "properties": {
                 "name": "SW Arm Papoose Site",
                 "status": "Proposed",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "red",
                 "contact": "Bond Keevil"
             }
@@ -157,7 +157,7 @@
             "properties": {
                 "name": "Cross Lake Central Site",
                 "status": "Operational",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Bond Keevil"
             }
@@ -193,7 +193,7 @@
             "properties": {
                 "name": "Temagami Fire Tower Site",
                 "status": "Operational",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Darcy Fortin"
             }
@@ -229,7 +229,7 @@
             "properties": {
                 "name": "Red Squirrel Lake Site",
                 "status": "Proposed",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "red",
                 "contact": "Jason Fehr"
             }
@@ -247,7 +247,7 @@
             "properties": {
                 "name": "Bell Island Site",
                 "status": "Active",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Bond Keevil"
             }
@@ -265,7 +265,7 @@
             "properties": {
                 "name": "SN#2",
                 "status": "Active",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Darcy Fortin"
             }
@@ -283,9 +283,27 @@
             "properties": {
                 "name": "SN#1",
                 "status": "Active",
-                "hardware": "RAK 4631 1W Solar Node",
+                "hardware": "RAK 1W Solar Node",
                 "marker-color": "yellow",
                 "contact": "Darcy Fortin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.012637,
+                     46.847846,
+                    2
+                ]
+            },
+            "properties": {
+                "name": "OUTB",
+                "status": "Active",
+                "hardware": "RAK 1W Solar Node",
+                "marker-color": "yellow",
+                "contact": "Daniel Buckles"
             }
         }
 
